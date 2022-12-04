@@ -14,5 +14,7 @@ class AppTest {
         List<Integer> numbers1 = new ArrayList<>(Arrays.asList(1, 2, 3, 4));
         assertThat(App.take(numbers1, 2)).isEqualTo(Arrays.asList(1,2));
         // END
+        List<Integer> numbers2 = new ArrayList<>(Arrays.asList(7, 3, 10));
+        assertThat(App.take(numbers2, 8)).isEqualTo(Arrays.asList(7,3,10));
     }
 }
