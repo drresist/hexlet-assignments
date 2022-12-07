@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6234a719-df7d-4e08-8298-64a57f5f47ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../generics/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../generics/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../generics/.idea/compiler.xml" beforeDir="false" />
@@ -31,6 +30,7 @@
       <change beforePath="$PROJECT_DIR$/../generics/settings.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../generics/src/main/java/exercise/App.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../generics/src/test/java/exercise/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lists/.classpath" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lists/.project" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lists/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
@@ -118,7 +118,7 @@
     &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.SorterTest">
+  <component name="RunManager" selected="Gradle.AppTest.testEnlargeArrayImage">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise.Main" />
       <module name="lambdas.main" />
@@ -166,6 +166,52 @@
       <setting name="customPortFile" value="" />
       <setting name="fixLineNumbers" value="false" />
       <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;exercise.AppTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest.testEnlargeArrayImage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;exercise.AppTest.testEnlargeArrayImage&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <configuration name="SorterTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -216,6 +262,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.AppTest.testEnlargeArrayImage" />
+        <item itemvalue="Gradle.AppTest" />
         <item itemvalue="Gradle.SorterTest" />
         <item itemvalue="Gradle.SorterTest.testSorterWithoutMan" />
         <item itemvalue="Application.Main" />
@@ -231,7 +279,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670307304973</updated>
       <workItem from="1670307308722" duration="5154000" />
-      <workItem from="1670440613637" duration="820000" />
+      <workItem from="1670440613637" duration="1201000" />
     </task>
     <servers />
   </component>
