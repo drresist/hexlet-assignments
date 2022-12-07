@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6234a719-df7d-4e08-8298-64a57f5f47ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/README.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/examples/Entry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/examples/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/examples/GEntry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/examples/IntegerStringEntry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/examples/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/examples/Util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/presentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/src/main/java/exercise/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/src/test/java/exercise/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/README.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/examples/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/presentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/src/main/java/exercise/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/src/test/java/exercise/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../streams/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/README.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/examples/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/presentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/src/main/java/exercise/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/src/main/java/exercise/Implementations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/src/test/java/exercise/AppTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="z0395wlv" />
+  </component>
+  <component name="ProjectId" id="2IWpgCEoJxoUnMGXBSzRvEQ98nY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Gradle.SorterTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.Main" />
+      <module name="lambdas.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="bbPath" value="" />
+      <setting name="parameters" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <setting name="workingDir" value="" />
+      <setting name="focusEditor" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SorterTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;exercise.SorterTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SorterTest.testSorterWithoutMan" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;exercise.SorterTest.testSorterWithoutMan&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SorterTest" />
+        <item itemvalue="Gradle.SorterTest.testSorterWithoutMan" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6234a719-df7d-4e08-8298-64a57f5f47ea" name="Changes" comment="" />
+      <created>1670307304973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670307304973</updated>
+      <workItem from="1670307308722" duration="5154000" />
+      <workItem from="1670440613637" duration="820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
